@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+	<channel>
+<title>My RSS Feed</title><link>https://cpt.czhang.uk/index.html</link><description>Hot News&#x21;</description><dc:language>en</dc:language><language>en</language><dc:date>2022-01-30T13:22:08+01:00</dc:date><admin:generatorAgent rdf:resource="http://www.realmacsoftware.com/" />
+<sy:updatePeriod>hourly</sy:updatePeriod>
+<sy:updateFrequency>1</sy:updateFrequency>
+<sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
+<lastBuildDate>Sun, 30 Jan 2022 13:22:18 +0100</lastBuildDate><item><title>CPT Before 2022</title><dc:subject>Archive</dc:subject><dc:date>2022-01-30T13:22:08+01:00</dc:date><link>https://cpt.czhang.uk/blog/files/943193e708807e515980adee509c58d6-0.html#unique-entry-id-0</link><guid isPermaLink="true">https://cpt.czhang.uk/blog/files/943193e708807e515980adee509c58d6-0.html#unique-entry-id-0</guid><content:encoded><![CDATA[Some papers that we have read so far:<br /><br /><br />1. Barnett, Zach. 2020. &ldquo;Why You Should Vote to Change the Outcome.&rdquo; Philosophy and Public Affairs 48(4): 422&ndash;46.  <br /><br />2. Vrousalis, Nicholas. 2013. &ldquo;Exploitation, Vulnerability, and Social Domination.&rdquo;&nbsp;Philosophy and Public Affairs&nbsp;41(2): 131&ndash;57.<br /><br />3. Platz, Von, Jeppe. 2020. &ldquo;Democratic Equality and the Justification of Welfare-State Capitalism.&rdquo;&nbsp;Ethics: 1&ndash;30. <br /><br />4. Ridge, Michael. 2021. &ldquo;Voting for Less Than the Best.&rdquo; Journal of Political Philosophy: 1&ndash;23. <br /><br />5. Schaefer, Alexander. 2021. &lsquo;Is Justice a Fixed Point?&rsquo;*American Journal of Political Science: ajps.12631*.<br /><br />6. Scheffler, Samuel. 2018. &lsquo;Membership and Political Obligation: Membership & Political Obligation&rsquo;.*Journal of Political Philosophy 26(1): 3&ndash;23*.<br /><br />7. Schouten, Gina. 2013. &lsquo;Restricting Justice: Political Interventions in the Home and in the Market&rsquo;.*Philosophy & Public Affairs: 357&ndash;88*.<br />]]></content:encoded></item></channel>
+</rss>
