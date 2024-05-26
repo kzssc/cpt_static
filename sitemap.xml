@@ -2,8 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://cpt.czhang.uk/index.html</loc>
+		<lastmod>2023-11-28</lastmod>
 	</url>
 	<url>
 		<loc>https://cpt.czhang.uk/blog/index.html</loc>
+	</url>
+	<url>
+		<loc>https://cpt.czhang.uk/blog/files/943193e708807e515980adee509c58d6-0.html</loc>
+	</url>
+	<url>
+		<loc>https://cpt.czhang.uk/blog/files/archive-january-2022.html</loc>
 	</url>
 </urlset>
