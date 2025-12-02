@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on CPT</title>
-    <link>http://100.64.24.37:1313/series/</link>
+    <link>https://cpt.czhang.uk/series/</link>
     <description>Recent content in Series on CPT</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://100.64.24.37:1313/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cpt.czhang.uk/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
